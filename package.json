@@ -1,13 +1,12 @@
 {
-  "name": "countries-graphql-app",
+  "name": "countries-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@apollo/client": "^3.8.0",
-    "graphql": "^16.8.0",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
-    "react-icons": "^5.0.0",
+    "@apollo/client": "^3.8.7",
+    "graphql": "^16.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
   },
   "scripts": {
